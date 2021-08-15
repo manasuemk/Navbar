@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: dodgerblue;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.nav-link:hover{
+    text-align: end;
+    transform: translateY(-20%);
+    text-shadow: 3px 3px black;
+    color: white;
+}
